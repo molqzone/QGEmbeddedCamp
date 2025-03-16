@@ -1,0 +1,5 @@
+.cache
+build
+.vscode
+CMakeLists.txt
+CMakePresets.json
